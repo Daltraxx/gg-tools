@@ -1,0 +1,8 @@
+pyproject.toml
+gg_tools.egg-info/PKG-INFO
+gg_tools.egg-info/SOURCES.txt
+gg_tools.egg-info/dependency_links.txt
+gg_tools.egg-info/entry_points.txt
+gg_tools.egg-info/top_level.txt
+mail_tools/__init__.py
+mail_tools/update_image_urls.py

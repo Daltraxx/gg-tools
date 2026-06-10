@@ -1,0 +1,6 @@
+[project]
+name = "gg-tools"
+version = "0.1.0"
+
+[project.scripts]
+update-image-urls = "mail_tools.update_image_urls:main"

@@ -1,0 +1,2 @@
+[console_scripts]
+update-image-urls = mail_tools.update_image_urls:main
