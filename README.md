@@ -1,6 +1,6 @@
 # GG Tools
 
-A collection of utilities and tools for development.
+A collection of utilities and tools for automating tasks and workflows.
 
 ## Features
 
